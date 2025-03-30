@@ -593,3 +593,43 @@ Received Import Request.
   path: Assets/_TerrainAutoUpgrade/NewLayer.terrainlayer
   artifactKey: Guid(f8c679f7dade24d4eac74d39041a07c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/_TerrainAutoUpgrade/NewLayer.terrainlayer using Guid(f8c679f7dade24d4eac74d39041a07c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a165941e9212450d8d8594105928e594') in 0.038954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1333.731527 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/BridgePontoon.prefab
+  artifactKey: Guid(12eafd3b38e02a046a7f72eda46088a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/BridgePontoon.prefab using Guid(12eafd3b38e02a046a7f72eda46088a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e167fd3e41f84b8f800e65890d432afa') in 0.139523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/BridgePontoons.prefab
+  artifactKey: Guid(89750c696c45dbf4ea5fc352ddb69ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/BridgePontoons.prefab using Guid(89750c696c45dbf4ea5fc352ddb69ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219e78575917a12d2adb23534a31ee5c') in 0.057021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/Pedestal.prefab
+  artifactKey: Guid(627cc11a2a7d3dc46a52c576e188b880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/Pedestal.prefab using Guid(627cc11a2a7d3dc46a52c576e188b880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7beac8267c2f6690c751c9d7a5375559') in 0.035187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/BridgeRockBroken.prefab
+  artifactKey: Guid(b80442e197f93f3419e56b7366a8e9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/BridgeRockBroken.prefab using Guid(b80442e197f93f3419e56b7366a8e9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f6151864b775b72602166a7eea1590') in 0.061566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/Trees.prefab
+  artifactKey: Guid(e16b9c582b318eb4c9c0d8bef0b8cc45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/Trees.prefab using Guid(e16b9c582b318eb4c9c0d8bef0b8cc45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7babbae562e1f359c389aeb81896c4') in 0.060501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.168446 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/Well.prefab
+  artifactKey: Guid(a7ebb2d62037c6f44be85b88fabc33d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/Well.prefab using Guid(a7ebb2d62037c6f44be85b88fabc33d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd82335ef2d84ce9b0a5d587956ee2b') in 0.019101 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

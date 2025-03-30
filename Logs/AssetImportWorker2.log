@@ -249,3 +249,121 @@ Received Import Request.
   path: Assets/Taylors Village Textures/NewLayer 3.terrainlayer
   artifactKey: Guid(45ce472db02dce64684d4065afe1d733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Taylors Village Textures/NewLayer 3.terrainlayer using Guid(45ce472db02dce64684d4065afe1d733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d04e6ab33e6ac4d5f758e02ebaacf08') in 0.016370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 541.897523 seconds.
+  path: Assets/Polytope Studio/Lowpoly_Environments/Sources/Materials/PT_Skybox_mat.mat
+  artifactKey: Guid(59573b088aaea0442bf29e0a0e9d1339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly_Environments/Sources/Materials/PT_Skybox_mat.mat using Guid(59573b088aaea0442bf29e0a0e9d1339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb96dbfdba3d1682aa29beb4612d010') in 0.104164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.516904 seconds.
+  path: Assets/Robot/Prefabs
+  artifactKey: Guid(c1aa448c4c958d843a191bcf0890103e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Prefabs using Guid(c1aa448c4c958d843a191bcf0890103e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa9155fb817a9af4dcdd1ccab9df95e') in 0.010653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 399.239444 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack
+  artifactKey: Guid(ea2314de6d3ca804cb2910f2cd9595cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack using Guid(ea2314de6d3ca804cb2910f2cd9595cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c645cae77b76b900787b707f8c7b6640') in 0.010411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.361841 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs
+  artifactKey: Guid(f11d201e057970842a31dea8984e084a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs using Guid(f11d201e057970842a31dea8984e084a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b95bc3d60dbee75a43c6843bafb091') in 0.002353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.049641 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/BridgeHanging.prefab
+  artifactKey: Guid(3ac0c1bd9ddc8c443ae08a6d0b80abbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/BridgeHanging.prefab using Guid(3ac0c1bd9ddc8c443ae08a6d0b80abbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76bfedf2a891a1b0b43c416cee4966d6') in 0.084525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/SmallBoat.prefab
+  artifactKey: Guid(a8abf0e5202774e48a51491da557a333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/SmallBoat.prefab using Guid(a8abf0e5202774e48a51491da557a333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62753fac81afd719a5dab362a05dbc9a') in 0.053718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/Tree.prefab
+  artifactKey: Guid(573c113741e3d4f428d78dbe6ed5a13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/Tree.prefab using Guid(573c113741e3d4f428d78dbe6ed5a13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a75607228a9afd7b07cbecf437a824b') in 0.046512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/Socle.prefab
+  artifactKey: Guid(abe33e2d4d152ff4e8348058148d7a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/Socle.prefab using Guid(abe33e2d4d152ff4e8348058148d7a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9bc21e13455baa5274a8229547823c4') in 0.038421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/SmallBoats.prefab
+  artifactKey: Guid(e0df267cc1aa8f44d9cdd98e662e0721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/SmallBoats.prefab using Guid(e0df267cc1aa8f44d9cdd98e662e0721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a858fc9102974ef99d53afcd36f91f') in 0.061219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/BridgeRock.prefab
+  artifactKey: Guid(4eead59d2ca69554e9356d924e52cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/BridgeRock.prefab using Guid(4eead59d2ca69554e9356d924e52cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10978070c955023d9055a8003371aca4') in 0.060806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.168261 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Prefabs/Water.prefab
+  artifactKey: Guid(5659d1c9864d1a44fbbfa8bfe2d86628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Prefabs/Water.prefab using Guid(5659d1c9864d1a44fbbfa8bfe2d86628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc15bcbb9251f1374eba3dd47d1ad48e') in 0.016085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.271451 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Textures
+  artifactKey: Guid(9bb4402da59d43d4391a90cdd1478f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Textures using Guid(9bb4402da59d43d4391a90cdd1478f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f4e07eafaeb417beacd5366a233f7c') in 0.010487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 75.874224 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Materials/BridgeHanging.mat
+  artifactKey: Guid(a5c88f5ceb5dadc4a948359149697782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Materials/BridgeHanging.mat using Guid(a5c88f5ceb5dadc4a948359149697782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e031c449a7d2151f55d08f7eaefdd92e') in 0.038593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Materials/BridgeRock.mat
+  artifactKey: Guid(79b5a41ba1c9863448cbe9236ba976e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Materials/BridgeRock.mat using Guid(79b5a41ba1c9863448cbe9236ba976e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc18939d8510a8f6e19600dabd51a36c') in 0.036989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Materials/TreeTrunk.mat
+  artifactKey: Guid(4ba7101b7a6bbc94c814c8016f24bdff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Materials/TreeTrunk.mat using Guid(4ba7101b7a6bbc94c814c8016f24bdff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25bc7bafcb7ccfce5064429d0357b61') in 0.065752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Materials/Transp.mat
+  artifactKey: Guid(8f04f002838fb8444ac4c288658cb23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Materials/Transp.mat using Guid(8f04f002838fb8444ac4c288658cb23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbedb9b1710862a566a682e68031a3db') in 0.029638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Materials/BridgeRockBroken.mat
+  artifactKey: Guid(60ef82ee2b18aca479d30923d2b4cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Materials/BridgeRockBroken.mat using Guid(60ef82ee2b18aca479d30923d2b4cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80cca591787e138f4160b862c9eb4a41') in 0.042861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Materials/TreeFoliage.mat
+  artifactKey: Guid(cd1191520a84ab24290cc641a6e0c246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Materials/TreeFoliage.mat using Guid(cd1191520a84ab24290cc641a6e0c246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b09feb4450c80026ed7239940f74c11') in 0.017884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Materials/Water.mat
+  artifactKey: Guid(048317bd250a65f4caac751eff15ba87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Materials/Water.mat using Guid(048317bd250a65f4caac751eff15ba87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b168eaa3cd91c57db3d4696ba86d1f6') in 0.008046 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
