@@ -1,0 +1,345 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.5f1 (40eb3a945986) revision 4254522'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16294 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/Owner/GAME351HW1
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+58111
+Successfully changed project path to: C:/Users/Owner/GAME351HW1
+C:/Users/Owner/GAME351HW1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 69.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.5f1 (40eb3a945986)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Owner/GAME351HW1/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   NVIDIA
+    VRAM:     12115 MB
+    Driver:   32.0.15.6094
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56208
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007389 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 54.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.461 seconds
+Domain Reload Profiling:
+	ReloadAssembly (461ms)
+		BeginReloadAssembly (61ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (315ms)
+			LoadAssemblies (58ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (68ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (21ms)
+			SetupLoadedEditorAssemblies (186ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (54ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (89ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005106 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Owner\GAME351HW1\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Owner\GAME351HW1\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.726 seconds
+Domain Reload Profiling:
+	ReloadAssembly (726ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (546ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (140ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (284ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (194ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3314 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (102.0 KB). Loaded Objects now: 3810.
+Memory consumption went from 158.1 MB to 158.0 MB.
+Total: 2.938900 ms (FindLiveObjects: 0.269200 ms CreateObjectMapping: 0.207200 ms MarkObjects: 2.281300 ms  DeleteObjects: 0.180400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 97773.495744 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Textures/BridgeRockBroken/bridge_rock_broken_01_MetallicSmoothness.png
+  artifactKey: Guid(83895b9bcfacd904183e8445dc03a4a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Textures/BridgeRockBroken/bridge_rock_broken_01_MetallicSmoothness.png using Guid(83895b9bcfacd904183e8445dc03a4a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6b1dfabefe9ca95de41cdc0a9744e4e') in 0.112199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.299758 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Textures/BridgeRock/bridge_rock_01_MetallicSmoothness.png
+  artifactKey: Guid(41001c943ad2b1d4fa7f644bd940442d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Textures/BridgeRock/bridge_rock_01_MetallicSmoothness.png using Guid(41001c943ad2b1d4fa7f644bd940442d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0bc3f0f3167a6bc782dfad473a49b0c') in 0.052369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.546633 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Textures/BridgePontoon/bridge_pontoon_01_MetallicSmoothness.png
+  artifactKey: Guid(58ec78cef8dc9aa478d88d51e571ad04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Textures/BridgePontoon/bridge_pontoon_01_MetallicSmoothness.png using Guid(58ec78cef8dc9aa478d88d51e571ad04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbe7f5418a4fa0525e2cc3e192ecebb1') in 0.044898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.150199 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Textures/BridgeHanging/bridge_hanging_01_MetallicSmoothness.png
+  artifactKey: Guid(27e89be1bbcdc9e4cb369fa2b5a70afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Textures/BridgeHanging/bridge_hanging_01_MetallicSmoothness.png using Guid(27e89be1bbcdc9e4cb369fa2b5a70afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fbc211bd16a71171d04bab27e832bb6') in 0.032663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.224647 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Textures/SmallBoat/small_boat_01_MetallicSmoothness.png
+  artifactKey: Guid(4fb96107dddd23f48975c9f726ba800a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Textures/SmallBoat/small_boat_01_MetallicSmoothness.png using Guid(4fb96107dddd23f48975c9f726ba800a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05c1a9bf37ed63808e33e6420e67066') in 0.031456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.745644 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Textures/Tree/trunk_01_AlbedoTransparency.png
+  artifactKey: Guid(22a59139355ba5c4696ee7c175cb2b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Textures/Tree/trunk_01_AlbedoTransparency.png using Guid(22a59139355ba5c4696ee7c175cb2b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2acb3c16d8cbe3daf4014eca43644367') in 0.040727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 376.422127 seconds.
+  path: Assets/Medival_House/Materials/House_02.mat
+  artifactKey: Guid(f2fd28972e33c8a48baa223b30337e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medival_House/Materials/House_02.mat using Guid(f2fd28972e33c8a48baa223b30337e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8bf90addc8bdb1d73b47bfeabebe389') in 0.094169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.544344 seconds.
+  path: Assets/Medival_House/Materials/House/House_02.mat
+  artifactKey: Guid(834788e599d363e44bf5b3151ec1b30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medival_House/Materials/House/House_02.mat using Guid(834788e599d363e44bf5b3151ec1b30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de3ca2a02b007816c245df0288bd93a') in 0.017118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.010435 seconds.
+  path: Assets/Medival_House/Meshes/Needle.fbx
+  artifactKey: Guid(f8a22f71fa9ce8840b797dcf916e17c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medival_House/Meshes/Needle.fbx using Guid(f8a22f71fa9ce8840b797dcf916e17c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2883af017c3bc57faa94dadb7c006c') in 0.108053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 168.662681 seconds.
+  path: Assets/Medival_House/Textures
+  artifactKey: Guid(0f33ae74e02d439429a2819462835055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medival_House/Textures using Guid(0f33ae74e02d439429a2819462835055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca23d991e783da04dbf7b35c2bf1a424') in 0.011607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.025197 seconds.
+  path: Assets/Medival_House/Meshes
+  artifactKey: Guid(03000cfa00512e341859454a4efd97fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medival_House/Meshes using Guid(03000cfa00512e341859454a4efd97fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a093f8fabb814777c4d4337c3102a3') in 0.013195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 134.711347 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Meshes
+  artifactKey: Guid(023dce41f934cc04da7eeaa20e10e421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Meshes using Guid(023dce41f934cc04da7eeaa20e10e421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442ec53901012912c3923d575076c1c4') in 0.002601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 60.900280 seconds.
+  path: Assets/Stylized Fences Free/Models
+  artifactKey: Guid(b946c13d9daf60947b913a254a4ecf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Fences Free/Models using Guid(b946c13d9daf60947b913a254a4ecf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1f81d15fcc09761bed5d4eda05f9d4') in 0.010962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.180461 seconds.
+  path: Assets/Stylized Fences Free/Models/Fance_part_04_free.fbx
+  artifactKey: Guid(ccd4d55f3d7fd224ea14744437f2df97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Fences Free/Models/Fance_part_04_free.fbx using Guid(ccd4d55f3d7fd224ea14744437f2df97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046c33666925c9478f9b0b3ef5dbc062') in 0.019110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Stylized Fences Free/Models/Fance_part_23_free.fbx
+  artifactKey: Guid(5a0975d6b99dca14cacfba1d36b8b605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Fences Free/Models/Fance_part_23_free.fbx using Guid(5a0975d6b99dca14cacfba1d36b8b605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f11d2560dbf2c3d26818a7c661cf209') in 0.019312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.115575 seconds.
+  path: Assets/Low Poly 3D Medieval Weapon Pack/Prefabs
+  artifactKey: Guid(ba7aa1a14814078418a4f3b437e715e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly 3D Medieval Weapon Pack/Prefabs using Guid(ba7aa1a14814078418a4f3b437e715e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff843ad36db1dc89f138cd606099198e') in 0.002841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.179420 seconds.
+  path: Assets/Low Poly 3D Medieval Weapon Pack/Prefabs/Axes
+  artifactKey: Guid(ec4e73d66e8efb64998a98083e8f4ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly 3D Medieval Weapon Pack/Prefabs/Axes using Guid(ec4e73d66e8efb64998a98083e8f4ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd41df84d57c10059c7b5957fe92a7451') in 0.010183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.090883 seconds.
+  path: Assets/Low Poly 3D Medieval Weapon Pack/Prefabs/Axes/axe_1.prefab
+  artifactKey: Guid(027323a2a364e104495f8a503542bfbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly 3D Medieval Weapon Pack/Prefabs/Axes/axe_1.prefab using Guid(027323a2a364e104495f8a503542bfbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68b9aec68dc9c72b460397a35e9b5ed') in 0.098606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Low Poly 3D Medieval Weapon Pack/Prefabs/Axes/axe_3.prefab
+  artifactKey: Guid(d438dd728e5f3b94a8d4de3577930eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly 3D Medieval Weapon Pack/Prefabs/Axes/axe_3.prefab using Guid(d438dd728e5f3b94a8d4de3577930eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ebbc01dce478e1fdf89cd2db9ee68a9') in 0.018173 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005346 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Owner\GAME351HW1\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Owner\GAME351HW1\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.875 seconds
+Domain Reload Profiling:
+	ReloadAssembly (875ms)
+		BeginReloadAssembly (147ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (607ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (154ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (310ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (206ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3280 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 15 unused Assets / (70.2 KB). Loaded Objects now: 3856.
+Memory consumption went from 159.9 MB to 159.8 MB.
+Total: 2.692200 ms (FindLiveObjects: 0.261400 ms CreateObjectMapping: 0.098300 ms MarkObjects: 2.253300 ms  DeleteObjects: 0.078000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 350.134308 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Textures/Pedestal/pedestal_Albedo.png
+  artifactKey: Guid(085e646613f74014987d9b8e8decf590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Textures/Pedestal/pedestal_Albedo.png using Guid(085e646613f74014987d9b8e8decf590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd1ae307fa2955dfeaf22aca1b60b10') in 0.092207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/MaximeBrunoni/BridgesPack/Art/Textures/Pedestal/pedestal_Normal.png
+  artifactKey: Guid(a234e43400a539d42ba3abdd44034470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaximeBrunoni/BridgesPack/Art/Textures/Pedestal/pedestal_Normal.png using Guid(a234e43400a539d42ba3abdd44034470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '254f979d0329f03752224d815ed6dd3d') in 0.028340 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
