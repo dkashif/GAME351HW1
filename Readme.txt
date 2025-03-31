@@ -1,15 +1,37 @@
 ______________________________________________________
-Program 1 Template (Starter Code) - v. 1.0
-School of Information, University of Arizona 
-July 7, 2022
+The different features that are added to our unity project are
+1. Follow Camera
+2. Realistic Terrain(mountains and rivers)
+3. Tree and Foliage 
+4. Baron's Castle
+5. Small Village
+6. Crash Site(debris and spaceship and charred ground)
+7. Aeras of Water(pound and moat)
 
-This code may modified freely by students of
-GAME 351 (Intro to Game Development) for use
-in their assignments. Other uses covered by
-the terms of the GNU Lesser General Public 
-License (LGPL). Note: Some included assets 
-may be subject to differing licensing agree-
-ments as per the policies of their authors.
+Two ways to install the Unity Project:
+
+Way 1:
+1) Go to this link: https://github.com/dkashif/GAME351HW1
+2) Click on the Green Button that says "< > Code"
+3) Copy the HTTPS link that it gives with the copy button
+4) Open your computer Terminals
+5) Change the current directory to the location where you want the cloned directory
+6) Type "git clone" and paste the URL that was copied earlier
+7) Press Enter to create a local clone
+8) Wait for it to clone
+9) Download the asset pack in Google Drive and turn it in as a comment in d2l
+10) Wait for that to download
+11) Open Unity Hub
+12) Press ADD, then "ADD project from disk"
+13) Find the folder, then open it.
+14) Make sure to use Version 2021.3.5f1
+15) Then, open the unity project and click continue through all the errors.
+16) Once the project has opened, click on assest at the top
+17) Then look for import packages and click on custom packages
+18) Look for the asset package that was downloaded from Google Drive and download it
+19) Once that is done the project should be good to go
+
+
 
 To install the project, follow these steps:
 
