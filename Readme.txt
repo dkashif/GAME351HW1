@@ -6,7 +6,7 @@ The different features that are added to our unity project are
 4. Baron's Castle
 5. Small Village
 6. Crash Site(debris and spaceship and charred ground)
-7. Aeras of Water(pound and moat)
+7. Areas of Water(pound and moat)
 
 Two ways to install the Unity Project:
 
@@ -19,14 +19,14 @@ Way 1:
 6) Type "git clone" and paste the URL that was copied earlier
 7) Press Enter to create a local clone
 8) Wait for it to clone
-9) Download the asset pack in Google Drive and turn it in as a comment in d2l
+9) Download the asset pack in the Google Drive turned in as a comment
 10) Wait for that to download
 11) Open Unity Hub
 12) Press ADD, then "ADD project from disk"
 13) Find the folder, then open it.
 14) Make sure to use Version 2021.3.5f1
 15) Then, open the unity project and click continue through all the errors.
-16) Once the project has opened, click on assest at the top
+16) Once the project has opened, click on asset at the top
 17) Then look for import packages and click on custom packages
 18) Look for the asset package that was downloaded from Google Drive and download it
 19) Once that is done the project should be good to go
