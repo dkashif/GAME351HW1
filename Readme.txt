@@ -32,33 +32,32 @@ Way 1:
 19) Once that is done the project should be good to go
 
 
+Way 2:
+1) Download everything from the Google Drive file
+2) Open Unity Hub
+3) Press ADD, then "ADD project from disk"
+4) Find the folder, then open it.
+5) Make sure to use Version 2021.3.5f1
+6) Then, open the unity project and click continue through all the errors.
+7) Once the project has opened, click on asset at the top
+8) Then look for import packages and click on custom packages
+9) Look for the asset package that was downloaded from Google Drive and download it
+10) Once that is done the project should be good to go
 
-To install the project, follow these steps:
 
-1) Create a blank 3D project in Unity Hub.
-2) Allow Unity editor to initialize the project.
-3) Save your blank 3D project and exit Unity.
-4) Navigate to project directory in file system.
-5) Drop the "Assets" folder into this directory.
-6) Open and reload the Unity project you created.
-7) In the project navigator, go to the assets directory
-   and find the "Scenes" folder.
-8) Click on the "Planet959 Scene" to load it.
-7) Go to Unity->File->Build Settings and verify that
-   the "Planet959 Scene" is "Scenes in Build" list.
-8) If the scene is not in the build list, click
-   "Add Open Scenes". The scene should appear checked. 
-9) The game template then should be ready for building 
-   and running.
 
 Credits:
- 
-Sample code by Leonard D. Brown, University of Arizona.
-This program was developed for educational purposes.
+Made By: Daniel Rivera, Taylor Poole, Tristian Costa 
 
 Freeware media assets were used from the following sources:
-(1) http://millionthvector.blogspot.com/
-(2) https://assetstore.unity.com/
-(3) https://www.gameartguppy.com/
-(4) https://www.videvo.net/royalty-free-sound-effects/
-(5) https://freesound.org/search/
+(1) https://assetstore.unity.com/packages/3d/props/weapons/low-poly-3d-medieval-weapon-pack-186935
+(2) https://assetstore.unity.com/packages/3d/props/stylized-medival-house-206837
+(3) https://assetstore.unity.com/packages/3d/props/wooden-fences-medieval-stylized-modular-pack-free-288849
+(4) https://assetstore.unity.com/packages/vfx/shaders/aquas-lite-built-in-render-pipeline-53519
+(5) https://assetstore.unity.com/packages/3d/free-space-ships-37562
+(6) https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
+(7) http://millionthvector.blogspot.com/
+(8) https://assetstore.unity.com/
+(9) https://www.gameartguppy.com/
+(10) https://www.videvo.net/royalty-free-sound-effects/
+(11) https://freesound.org/search/
