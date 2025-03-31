@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2021.3/staging' branch; Version is '2021.3.5f1 (40eb3a945986) revision 4254522'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16294 MB
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 32699 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2021.3.5f1\Editor\Unity.exe
+G:\2021.3.5f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Owner/GAME351HW1
+C:/Users/coolk/GAME351HW1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54379
-Successfully changed project path to: C:/Users/Owner/GAME351HW1
-C:/Users/Owner/GAME351HW1
+53594
+Successfully changed project path to: C:/Users/coolk/GAME351HW1
+C:/Users/coolk/GAME351HW1
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,105 +47,105 @@ C:/Users/Owner/GAME351HW1
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 59.50 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 73.85 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.5f1 (40eb3a945986)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.5f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Owner/GAME351HW1/Assets
+[Subsystems] Discovering subsystems at path G:/2021.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/coolk/GAME351HW1/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Renderer: NVIDIA GeForce RTX 4060 (ID=0x2882)
     Vendor:   NVIDIA
-    VRAM:     12115 MB
-    Driver:   32.0.15.6094
+    VRAM:     7957 MB
+    Driver:   32.0.15.6636
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.5f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56100
+Mono path[0] = 'G:/2021.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'G:/2021.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'G:/2021.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56216
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008348 seconds.
+Register platform support module: G:/2021.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002233 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 54.86 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 70.67 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.489 seconds
+- Completed reload, in  0.776 seconds
 Domain Reload Profiling:
-	ReloadAssembly (490ms)
-		BeginReloadAssembly (65ms)
+	ReloadAssembly (777ms)
+		BeginReloadAssembly (115ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (324ms)
-			LoadAssemblies (62ms)
+		EndReloadAssembly (556ms)
+			LoadAssemblies (113ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (75ms)
+			SetupTypeCache (206ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (20ms)
-			SetupLoadedEditorAssemblies (188ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (250ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (55ms)
+				RefreshPlugins (71ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (91ms)
-				ProcessInitializeOnLoadMethodAttributes (34ms)
+				ProcessInitializeOnLoadAttributes (118ms)
+				ProcessInitializeOnLoadMethodAttributes (54ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004992 seconds.
+Registered in 0.006005 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Owner\GAME351HW1\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Owner\GAME351HW1\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\coolk\GAME351HW1\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\coolk\GAME351HW1\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.754 seconds
+- Completed reload, in  1.093 seconds
 Domain Reload Profiling:
-	ReloadAssembly (754ms)
-		BeginReloadAssembly (98ms)
+	ReloadAssembly (1093ms)
+		BeginReloadAssembly (121ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (564ms)
-			LoadAssemblies (72ms)
+		EndReloadAssembly (867ms)
+			LoadAssemblies (94ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (143ms)
+			SetupTypeCache (207ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (295ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (510ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
 				BeforeProcessingInitializeOnLoad (67ms)
-				ProcessInitializeOnLoadAttributes (199ms)
-				ProcessInitializeOnLoadMethodAttributes (13ms)
-				AfterProcessingInitializeOnLoad (10ms)
+				ProcessInitializeOnLoadAttributes (418ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3314 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 22 unused Assets / (102.0 KB). Loaded Objects now: 3810.
-Memory consumption went from 158.2 MB to 158.1 MB.
-Total: 2.905400 ms (FindLiveObjects: 0.246600 ms CreateObjectMapping: 0.132600 ms MarkObjects: 2.434500 ms  DeleteObjects: 0.091000 ms)
+Unloading 22 unused Assets / (101.8 KB). Loaded Objects now: 3810.
+Memory consumption went from 158.0 MB to 157.9 MB.
+Total: 3.317600 ms (FindLiveObjects: 0.406800 ms CreateObjectMapping: 0.239000 ms MarkObjects: 2.519300 ms  DeleteObjects: 0.151000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -159,51 +159,65 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 8035.733891 seconds.
-  path: Assets/New Terrain 2.asset
-  artifactKey: Guid(f6f5bc44d9768684eba764b2ac652d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain 2.asset using Guid(f6f5bc44d9768684eba764b2ac652d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The tree PT_Pine_Tree_03_green_cut must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
-The tree PT_Fruit_Tree_01_stump must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
- -> (artifact id: '810337e67acae239f9683992e994dd8b') in 0.126391 seconds 
+  Time since last request: 418519.343929 seconds.
+  path: Assets/Tree.prefab
+  artifactKey: Guid(90bce5ed21b251544b45ac3505ec89ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree.prefab using Guid(90bce5ed21b251544b45ac3505ec89ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76bcdf9990f62e9254cd8b86e298dd18') in 0.315377 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Tree 1.prefab
-  artifactKey: Guid(81e46f975facf9d47b6fb90696b5f96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tree 1.prefab using Guid(81e46f975facf9d47b6fb90696b5f96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf8f1c8039351635055a3abdb61fc29') in 0.078205 seconds 
+  Time since last request: 79.288209 seconds.
+  path: Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Pine_Tree_03_green_cut.fbx
+  artifactKey: Guid(2a5e649cde00dd847885c694eb77f1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Pine_Tree_03_green_cut.fbx using Guid(2a5e649cde00dd847885c694eb77f1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bc0bbb4238c58bafd8d12c5b5bfb7df') in 0.132254 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.971498 seconds.
-  path: Assets/Medival_House
-  artifactKey: Guid(59b37256d8e6ca642950265d1e75a324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Medival_House using Guid(59b37256d8e6ca642950265d1e75a324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e01d42b9d8180b54043e58347c19415') in 0.009351 seconds 
+  Time since last request: 0.000025 seconds.
+  path: Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Rocks/PT_River_Rock_Pile_02.fbx
+  artifactKey: Guid(e5e1b3c0d2be60b47981235187af0936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Rocks/PT_River_Rock_Pile_02.fbx using Guid(e5e1b3c0d2be60b47981235187af0936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ea95a0e0affec4e2d3f34cc928e9177') in 0.654582 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.847773 seconds.
-  path: Assets/MaximeBrunoni
-  artifactKey: Guid(08d1c2ac2d85b2f4bac2c293d7169931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MaximeBrunoni using Guid(08d1c2ac2d85b2f4bac2c293d7169931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16dad157191f825de4b1ced33f96c539') in 0.010610 seconds 
+  Time since last request: 0.000143 seconds.
+  path: Assets/AQUAS-Lite/Textures/AQUAS_Foam.jpg
+  artifactKey: Guid(6cb123095ca4b4e4680773312ba1c076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AQUAS-Lite/Textures/AQUAS_Foam.jpg using Guid(6cb123095ca4b4e4680773312ba1c076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f8eba2e8cf96b14167b77359263bcc') in 0.032739 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.285263 seconds.
-  path: Assets/Polytope Studio
-  artifactKey: Guid(115939fafdaab3542ac9de578833169e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Polytope Studio using Guid(115939fafdaab3542ac9de578833169e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8e173131d692ba69c3d7455293ab1e') in 0.009878 seconds 
+  Time since last request: 0.000028 seconds.
+  path: Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_stump.fbx
+  artifactKey: Guid(f42a2ed0c78e45643bba339ed33235d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_stump.fbx using Guid(f42a2ed0c78e45643bba339ed33235d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd15a19a6e3331b474f770b7b4253d81e') in 0.033713 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.067521 seconds.
-  path: Assets/Terrain
-  artifactKey: Guid(15b243ecd2627b54795f70b9462f6f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain using Guid(15b243ecd2627b54795f70b9462f6f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5fbb521eee6a212a1e4d548fad4a67') in 0.009780 seconds 
+  Time since last request: 0.000023 seconds.
+  path: Assets/AQUAS-Lite/Demo/Textures/Gravel.jpg
+  artifactKey: Guid(fe4e2613219b2654c82dd59079667fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AQUAS-Lite/Demo/Textures/Gravel.jpg using Guid(fe4e2613219b2654c82dd59079667fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3deb6675d62271540761d1e26741bc') in 0.029669 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.149687 seconds.
-  path: Assets/Stylized Fences Free
-  artifactKey: Guid(02080b979e1af714c9775c44ee288e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Stylized Fences Free using Guid(02080b979e1af714c9775c44ee288e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a99df522ef82f9227cc946b5c8389a12') in 0.009893 seconds 
+  Time since last request: 0.000036 seconds.
+  path: Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_dead.fbx
+  artifactKey: Guid(3ebf65d3a6489594ca09a35d85d43b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_dead.fbx using Guid(3ebf65d3a6489594ca09a35d85d43b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79f20ee7055b033adf588260393476e') in 0.063243 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.555919 seconds.
-  path: Assets/SpaceShips
-  artifactKey: Guid(fad89441f6a22a64083597eeb69e8693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SpaceShips using Guid(fad89441f6a22a64083597eeb69e8693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6376001eda4a17724cf9292f251aa96a') in 0.010079 seconds 
+  Time since last request: 0.000025 seconds.
+  path: Assets/Taylors Village Textures/Delos-TerraForm-Irregular-Black-Stone-Cladding-Swatch-1024x768.jpg
+  artifactKey: Guid(6b8784a9b17667144a91477bbf4d6579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Taylors Village Textures/Delos-TerraForm-Irregular-Black-Stone-Cladding-Swatch-1024x768.jpg using Guid(6b8784a9b17667144a91477bbf4d6579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfbb73caa65361d918cac2c97c4a704') in 0.023968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_apples.fbx
+  artifactKey: Guid(fb0559a36ae9650449b6e3c26d5076a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_apples.fbx using Guid(fb0559a36ae9650449b6e3c26d5076a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4daaa62039a33d863bedcb4868f12496') in 0.056324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/AQUAS-Lite/Demo/Textures/Cliffs.jpg
+  artifactKey: Guid(ea2cf029f996b84418c75102c55065fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AQUAS-Lite/Demo/Textures/Cliffs.jpg using Guid(ea2cf029f996b84418c75102c55065fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16b050375d3fc924ecc16f88056bf17') in 0.024921 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
